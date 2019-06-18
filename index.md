@@ -1,3 +1,15 @@
+### Super Meiro Maze
+
+2D Side Scrolling Game. Made with a custom JavaScript game engine using WebGL. 
+
+Solo project
+
+[Source Code](https://github.com/Mousytongue/SuperMeiroMaze)
+
+[Relevant Code](https://github.com/Mousytongue/SuperMeiroMaze/tree/master/public_html/src/MyGame)
+
+[Play Me!](https://mousytongue.github.io/)
+
 ### Custom Mesh Manipulator
 
 Unity project that creates a flexible mesh that can be manipulated by hand. The mesh is generated entirely via C# script.
@@ -10,7 +22,7 @@ Solo project
 
 [Sample Video](https://ttprivatenew.s3.amazonaws.com/pulse/jacoblefeat-hotmail/attachments/10854185/Mesh+Editor+Sample.mp4)
 
-### AR - Multiplayer World Extender
+### AR - Multiplayer Fantasy Battle Game
 
 Multiplayer AR game using Google Cloud anchor with Unity's UNET.
 
@@ -33,3 +45,15 @@ Solo Project
 [Relevant Code](https://github.com/TSampson92/ARFantasyBattleSimFinal/tree/master/AR%20Battle%20Simulator/Assets/ARFantasy/Scripts)
 
 [Sample Video](https://jacoblefeat-hotmail.tinytake.com/tt/MzU5MjM5N18xMDg1NDM2MA)
+
+### One Button Game
+
+Fun Simple Unity project - Only uses spacebar!
+
+Group Project - I created the jump mechanics/UI and Level 2
+
+[Source Code](https://github.com/Mousytongue/OneButtonGame)
+
+[Relevant Code](https://github.com/Mousytongue/OneButtonGame/tree/master/Betum13/Assets)
+
+[Play Me]()
