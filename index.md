@@ -8,6 +8,8 @@ Solo project
 
 [Relevant Code](https://github.com/Mousytongue/SuperMeiroMaze/tree/master/public_html/src/MyGame)
 
+[Sample Video](https://www.youtube.com/watch?v=f_DnF3G7ec8)
+
 [Play Me!](https://mousytongue.github.io/)
 
 ### Custom Mesh Manipulator
@@ -26,7 +28,7 @@ Solo project
 
 Multiplayer AR game using Google Cloud anchor with Unity's UNET.
 
-Group Project - I created the backend scripts for AR / Multiplayer / Unit control / Movement / Battle interactions / UI
+3 person Group Project - I created the backend scripts for AR / Multiplayer / Unit control / Movement / Battle interactions / UI
 
 [Source Code](https://github.com/Mousytongue/AR-CollabWorldExtender)
 
@@ -46,11 +48,23 @@ Solo Project
 
 [Sample Video](https://jacoblefeat-hotmail.tinytake.com/tt/MzU5MjM5N18xMDg1NDM2MA)
 
+### Ball-o-matic-Game
+
+3D-Game: Circus themed gallery shooter
+
+2 Person Group Project - I created everything except sound and ball collision detection
+
+[Source Code](https://github.com/Mousytongue/Ball-o-matic-Game)
+
+[Relevant Code](https://github.com/Mousytongue/Ball-o-matic-Game/tree/master/Ball-Sacomatic/Assets/Resources/Scripts/Behaviour%20Scripts)
+
+[Sample Video](https://www.youtube.com/watch?v=oKZRHxY38pM)
+
 ### One Button Game
 
-Fun Simple Unity project - Only uses spacebar!
+Fun Simple Unity project - Only uses spacebar! - Created in 1 day
 
-Group Project - I created the jump mechanics/UI and Level 2
+3 person Group Project - I created the jump mechanics/UI and Level 2
 
 [Source Code](https://github.com/Mousytongue/OneButtonGame)
 
