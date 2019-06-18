@@ -1,4 +1,4 @@
-### Super Meiro Maze
+## Super Meiro Maze
 
 2D Side Scrolling Game. Made with a custom JavaScript game engine using WebGL. 
 
@@ -12,7 +12,7 @@ Solo project
 
 [Play Me!](https://mousytongue.github.io/)
 
-### Custom Mesh Manipulator
+## Custom Mesh Manipulator
 
 Unity project that creates a flexible mesh that can be manipulated by hand. The mesh is generated entirely via C# script.
 
@@ -24,7 +24,7 @@ Solo project
 
 [Sample Video](https://ttprivatenew.s3.amazonaws.com/pulse/jacoblefeat-hotmail/attachments/10854185/Mesh+Editor+Sample.mp4)
 
-### AR - Multiplayer Fantasy Battle Game
+## AR - Multiplayer Fantasy Battle Game
 
 Multiplayer AR game using Google Cloud anchor with Unity's UNET.
 
@@ -36,7 +36,7 @@ Multiplayer AR game using Google Cloud anchor with Unity's UNET.
 
 [Sample Video](https://jacoblefeat-hotmail.tinytake.com/tt/MzU5MjQxMl8xMDg1NDQ2Ng)
 
-### AR - Multiplayer World Extender
+## AR - Multiplayer World Extender
 
 ARCore app that uses a google cloud anchor with unity's UNET to generate detected planes onto a multiplayer gameworld.
 
@@ -48,7 +48,7 @@ Solo Project
 
 [Sample Video](https://jacoblefeat-hotmail.tinytake.com/tt/MzU5MjM5N18xMDg1NDM2MA)
 
-### Ball-o-matic-Game
+## Ball-o-matic-Game
 
 3D-Game: Circus themed gallery shooter
 
@@ -60,7 +60,7 @@ Solo Project
 
 [Sample Video](https://www.youtube.com/watch?v=oKZRHxY38pM)
 
-### One Button Game
+## One Button Game
 
 Fun Simple Unity project - Only uses spacebar! - Created in 1 day
 
