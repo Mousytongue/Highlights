@@ -1,42 +1,18 @@
 ## Custom Mesh Manipulator
 
-Unity project that creates a flexible mesh that can be manipulated by hand. The mesh is generated via script.
+Unity project that creates a flexible mesh that can be manipulated by hand. The mesh is generated entirely via C# script.
 
 [Source Code](https://github.com/Mousytongue/MeshEditor/tree/master)
-
 [Relevant Code](https://github.com/Mousytongue/MeshEditor/tree/master/CustomMeshEditor/Assets/Source/UI%20Support)
-
 [Sample Video](https://ttprivatenew.s3.amazonaws.com/pulse/jacoblefeat-hotmail/attachments/10854185/Mesh+Editor+Sample.mp4)
+<video src="https://ttprivatenew.s3.amazonaws.com/pulse/jacoblefeat-hotmail/attachments/10854185/Mesh+Editor+Sample.mp4" width="320" height="200" controls preload></video>
 
 
-### Markdown
+## AR - Multiplayer World Extender
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ARCore app that uses a google cloud anchor with unity's UNET to generate detected planes onto a multiplayer gameworld.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mousytongue/Highlights/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Source Code](https://github.com/Mousytongue/AR-CollabWorldExtender)
+[Relevant Code](https://github.com/Mousytongue/AR-CollabWorldExtender/tree/master/TestAR1/Assets/UserFiles/Scripts)
+[Sample Video](https://jacoblefeat-hotmail.tinytake.com/tt/MzU5MjM5N18xMDg1NDM2MA)
+<video src="https://jacoblefeat-hotmail.tinytake.com/tt/MzU5MjM5N18xMDg1NDM2MA" width="320" height="200" controls preload></video>
