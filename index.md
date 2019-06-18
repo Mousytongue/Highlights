@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Custom Mesh Manipulator
 
-You can use the [editor on GitHub](https://github.com/Mousytongue/Highlights/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Unity project that creates a flexible mesh that can be manipulated by hand. The mesh is generated via script.
+[Source Code](https://github.com/Mousytongue/MeshEditor/tree/master)
+[Relevant Code](https://github.com/Mousytongue/MeshEditor/tree/master/CustomMeshEditor/Assets/Source/UI%20Support)
+[Sample Video](https://ttprivatenew.s3.amazonaws.com/pulse/jacoblefeat-hotmail/attachments/10854185/Mesh+Editor+Sample.mp4)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<video width="90%" height="90%" controls autoplay><source src="https://ttprivatenew.s3.amazonaws.com/pulse/jacoblefeat-hotmail/attachments/10854185/Mesh+Editor+Sample.mp4" type="video/mp4">Your browser does not support the video tag.</video><br /><a href="https://www.tinytake.com" title="Powered by TinyTake Screen Capture">Powered by TinyTake Screen Capture</a>
 
 ### Markdown
 
