@@ -20,7 +20,7 @@ Group Project - I created the backend scripts for AR / Multiplayer / Unit contro
 
 [Relevant Code](https://github.com/Mousytongue/AR-CollabWorldExtender/tree/master/TestAR1/Assets/UserFiles/Scripts)
 
-[Sample Video](https://jacoblefeat-hotmail.tinytake.com/tt/MzU5MjM5N18xMDg1NDM2MA)
+[Sample Video](https://jacoblefeat-hotmail.tinytake.com/tt/MzU5MjQxMl8xMDg1NDQ2Ng)
 
 ### AR - Multiplayer World Extender
 
@@ -32,4 +32,4 @@ Solo Project
 
 [Relevant Code](https://github.com/TSampson92/ARFantasyBattleSimFinal/tree/master/AR%20Battle%20Simulator/Assets/ARFantasy/Scripts)
 
-[Sample Video](https://jacoblefeat-hotmail.tinytake.com/tt/MzU5MjQxMl8xMDg1NDQ2Ng)
+[Sample Video](https://jacoblefeat-hotmail.tinytake.com/tt/MzU5MjM5N18xMDg1NDM2MA)
