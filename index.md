@@ -45,7 +45,7 @@ Solo project for Cloud Computing Course
 
 2D Side Scrolling Game. Made with a custom JavaScript game engine using WebGL. 
 
-Solo project
+Solo project for Game Engine Dev Course
 
 [Source Code](https://github.com/Mousytongue/SuperMeiroMaze)
 
@@ -59,7 +59,7 @@ Solo project
 
 Unity project that creates a flexible mesh that can be manipulated by hand. The mesh is generated entirely via C# script.
 
-Solo project
+Solo project for 3D Computer Graphics Course
 
 [Source Code](https://github.com/Mousytongue/MeshEditor/tree/master)
 
@@ -83,7 +83,7 @@ Multiplayer AR game using Google Cloud anchor with Unity's UNET.
 
 ARCore app that uses a google cloud anchor with unity's UNET to generate detected planes onto a multiplayer gameworld.
 
-Solo Project
+Solo Project for 3D Computer Graphics Course
 
 [Source Code](https://github.com/TSampson92/ARFantasyBattleSimFinal)
 
