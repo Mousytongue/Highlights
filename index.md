@@ -25,6 +25,22 @@ Features: Login system - Azure database for Images/POI's - Blob storage backup -
 
 [Site Link](https://rpgworldbuilder.azurewebsites.net/)
 
+## NoSql Uploader - Cloud services
+
+Class project that takes data located on the web. Parses the data and populates a Microsoft Azure NoSql database.
+
+Solo project for Cloud Computing Course
+
+[Source Code](https://github.com/Mousytongue/Cloud-NoSQLUploader)
+
+## Cloud Backup - Cloud services
+
+Python application that recursively traverses a file directory and uploads everything to cloud storage - maintains directory structure and creates timestamps to track changes 
+
+Solo project for Cloud Computing Course
+
+[Source Code](https://github.com/Mousytongue/Cloud-Azure_BlobBackup)
+
 ## Super Meiro Maze
 
 2D Side Scrolling Game. Made with a custom JavaScript game engine using WebGL. 
