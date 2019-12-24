@@ -13,6 +13,18 @@ Solo capstone project - Advisor: Dr. Kelvin Sung
 
 [Sample Video](https://youtu.be/YOwOe_MMLRk)
 
+## RPG world builder website - Cloud services
+
+Website that utilizes 6 cloud based services. The site is a prototype for creating DnD style maps - The user pins notes onto an image to designate points of interests.
+
+Group Project for Cloud Computing Course
+
+Features: Login system - Azure database for Images/POI's - Blob storage backup - Github integrated deployment - Exposed Restful API
+
+[Source Code](https://github.com/Mousytongue/Cloud-RpgWorldBuilderWebsite/tree/master)
+
+[Site Link](https://rpgworldbuilder.azurewebsites.net/)
+
 ## Super Meiro Maze
 
 2D Side Scrolling Game. Made with a custom JavaScript game engine using WebGL. 
