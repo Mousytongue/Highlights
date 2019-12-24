@@ -1,3 +1,18 @@
+## Multi-user AR Illusion
+
+Multi-user AR experience using Augmented Space Library. 
+Uses ARCore / Google Cloud Anchor / Augmented Space Library / Unity
+
+This project is a technical exploration in creating an AR illusion of the physical world changing. Uses a screen capture with multiple texture projectors to produce an visual effect of the surface opening up into a pitfall. Created as a mutliuser AR app to test the ASL library's capabilities.  
+
+Solo capstone project - Advisor: Dr. Kelvin Sung
+
+[Source Code](https://github.com/Mousytongue/AR_Illusion)
+
+[Relevant Code](https://github.com/Mousytongue/AR_Illusion/tree/master/ASL/Assets/UserFiles/Scripts)
+
+[Sample Video](https://youtu.be/YOwOe_MMLRk)
+
 ## Super Meiro Maze
 
 2D Side Scrolling Game. Made with a custom JavaScript game engine using WebGL. 
