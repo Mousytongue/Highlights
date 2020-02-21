@@ -23,7 +23,6 @@ Features: Login system - Azure database for Images/POI's - Blob storage backup -
 
 [Source Code](https://github.com/Mousytongue/Cloud-RpgWorldBuilderWebsite/tree/master)
 
-[Site Link](https://rpgworldbuilder.azurewebsites.net/)
 
 ## NoSql Uploader - Cloud services
 
