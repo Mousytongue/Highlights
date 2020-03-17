@@ -1,3 +1,19 @@
+### Current Projects
+
+## Learning React-JS
+Decided to pick up React-JS. I had very little practice with front end web development during my time at UWB, so I'm exploring React-JS.
+-Progress can be found in my repo
+
+## Neighborhood Knockout
+Unity 3D game. Prototype was created during the Global Game Jam down in Seattle. I've decided to continue with the project and make something more polished.
+
+[Sample Video](https://ttprivatenew.s3.amazonaws.com/pulse/jacoblefeat-hotmail/attachments/12602920/TinyTake27-02-2020-09-35-16.mp4)
+
+## Data Structures and Algorithms.
+Bought the textbook Cracking The Coding Interview. Studying it to strengthen my knowledge of data structs and algorithms.
+-Progress can be found in my repo
+
+
 ## Multi-user AR Illusion
 
 Multi-user AR experience using Augmented Space Library. 
