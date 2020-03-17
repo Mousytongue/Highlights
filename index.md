@@ -1,4 +1,4 @@
-### Current Projects
+# Current Projects
 
 ## Learning React-JS
 Decided to pick up React-JS. I had very little practice with front end web development during my time at UWB, so I'm exploring React-JS.
@@ -13,6 +13,7 @@ Unity 3D game. Prototype was created during the Global Game Jam down in Seattle.
 Bought the textbook Cracking The Coding Interview. Studying it to strengthen my knowledge of data structs and algorithms.
 -Progress can be found in my repo
 
+# Past Projects
 
 ## Multi-user AR Illusion
 
