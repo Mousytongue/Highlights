@@ -1,4 +1,4 @@
 # Jacob-Lefeat
-Software Developer Studying at University of Washington
+Software Developer Recently graduated from University of Washington - Bothell.
 
 Nothing special here silly, just a quicky webpage - Check out Mousytongue!
